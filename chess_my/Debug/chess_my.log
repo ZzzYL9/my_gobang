@@ -1,0 +1,4 @@
+﻿  chessgame.cpp
+d:\vscodes\chess_my\chess_my\chessgame.cpp(594): warning C4715: “ChessGame::Computer”: 不是所有的控件路径都返回值
+  chess_my.vcxproj -> D:\vscodes\chess_my\Debug\chess_my.exe
+  chess_my.vcxproj -> D:\vscodes\chess_my\Debug\chess_my.pdb (Partial PDB)
